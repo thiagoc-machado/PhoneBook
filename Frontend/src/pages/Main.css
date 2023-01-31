@@ -1,0 +1,9 @@
+.tables{
+    padding: 40px ;
+}
+
+@media (max-width: 599px) {
+    .tables{
+        padding: 10px 5px ;
+    }
+  }
